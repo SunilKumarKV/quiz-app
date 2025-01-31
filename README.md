@@ -28,9 +28,9 @@ Welcome to the **Quiz App**! This is a simple, interactive web-based quiz applic
 ![Screenshot of Results Summary Page](src/assets/Results_Summary.png)
 
 ---
-### Video Preview:
+## Check out the Video Walkthrough
 
-[![Quiz App Video](./path/to/video_thumbnail.jpg)](./path/to/video.mp4)
+You can watch the video walkthrough of the project on my [LinkedIn post](https://www.linkedin.com/posts/sunilkumarkv44_webdevelopment-gamification-reactjs-activity-7291135439237746688-rjyX?utm_source=share&utm_medium=member_desktop).
 
 
 ---
