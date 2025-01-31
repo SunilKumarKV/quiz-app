@@ -13,6 +13,20 @@ Welcome to the **Quiz App**! This is a simple, interactive web-based quiz applic
 - **Leaderboard**: Track and display scores at the end of the quiz.
 - **Responsive Design**: The app is responsive and works well on mobile, tablet, and desktop.
 
+## Technologies Used
+- React.js
+- JavaScript (ES6)
+- HTML/CSS
+
+### Quiz Start:
+![Screenshot of App](assets/Start_Quiz_age.png)
+
+### Multiple Choice Questions Page:
+![Screenshot of App](assets/Multiple-Choice_Questions_Page.png)
+
+### Results Summary:
+![Screenshot of App](assets/Results_Summary.png)
+
 ---
 
 ## Project Setup Instructions
