@@ -19,13 +19,19 @@ Welcome to the **Quiz App**! This is a simple, interactive web-based quiz applic
 - HTML/CSS
 
 ### Quiz Start:
-![Screenshot of App](assets/Start_Quiz_age.png)
+![Screenshot of Start Quiz Page](./assets/Start_Quiz_age.png)
 
 ### Multiple Choice Questions Page:
-![Screenshot of App](assets/Multiple-Choice_Questions_Page.png)
+![Screenshot of Multiple choice Questions Page](./assets/Multiple-Choice_Questions_Page.png)
 
 ### Results Summary:
-![Screenshot of App](assets/Results_Summary.png)
+![Screenshot of Results Summary Page](./assets/Results_Summary.png)
+
+---
+### Video Preview:
+
+[![Quiz App Video](./path/to/video_thumbnail.jpg)](./path/to/video.mp4)
+
 
 ---
 
